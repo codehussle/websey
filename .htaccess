@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !.*\.txt$ [NC]
+RewriteRule .* inc/framework.php
