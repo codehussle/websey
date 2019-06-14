@@ -1,3 +1,1 @@
-<?php
-
-print_lolek_i_bolek();
+<h1>IM HOME PAGE</h1>
