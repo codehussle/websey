@@ -1,0 +1,20 @@
+{
+	"site_title": "Websey",
+	"site_tagline": "A Websey website",
+	"modules": [
+		"routsey", "platsey"
+	],
+	"routes": [
+		{
+			"title": "Home page",
+			"action": "",
+			"file": "pages/index.php",
+			"template": "home"
+		},
+		{
+			"action": "about",
+			"file": "pages/about.php",
+			"template": "page"
+		}
+	]
+}
